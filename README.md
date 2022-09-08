@@ -3,11 +3,13 @@
 - 💻 Trabalho como assistente administrativo e estudo progamaçâo...
 - ☕ Atualmente estou aprendendo html, css e javascript...
 - 📚 Procuro aplicar projetos que estudo no meu dia a dia...
+
 <img align="right" alt="dev-pic" height="160" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 <div align="center">
   <a href="https://github.com/Felipe-Monte">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Monte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Monte&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width="350px" src="https://github-readme-stats.vercel.app/api?username=Felipe-Monte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Monte&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
