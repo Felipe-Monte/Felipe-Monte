@@ -20,7 +20,7 @@
   <a href="https://api.whatsapp.com/send?phone=5584998431693" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <img align="right" alt="dev-pic" height="160" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
   
-  ## Hello world ! 🖖🤓
+  ## Hello world ! 🖖👽
   Me chamo Carlos Felipe, sou estudante de programação e tecnologia!
 
 - 💻 Trabalho como assistente administrativo e estudo progamaçâo...
