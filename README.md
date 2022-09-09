@@ -21,7 +21,7 @@
   <img align="right" alt="dev-pic" height="160" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
  </div>
   
-  ## Hello world ! 🖖👽
+  ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
   Me chamo Carlos Felipe, sou estudante de programação e tecnologia!
 
 - 💻 Trabalho como assistente administrativo e estudo progamaçâo...
