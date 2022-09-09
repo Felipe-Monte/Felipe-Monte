@@ -22,11 +22,11 @@
  </div>
   
   ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
-  Me chamo Carlos Felipe, sou estudante de programação e tecnologia!
+  <h3>Me chamo Carlos Felipe, sou estudante de programação e tecnologia!</h3>
 
-- 💻 Trabalho como assistente administrativo e estudo progamaçâo...
-- ☕ Atualmente estou aprendendo html, css e javascript...
-- 📚 Procuro aplicar projetos que estudo no meu dia a dia...
+- 💻 Trabalho como assistente administrativo e estudo progamaçâo.
+- ☕ Atualmente estou aprendendo html, css e javascript.
+- 📚 Procuro aplicar projetos que estudo no meu dia a dia.
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
