@@ -28,7 +28,7 @@
 - ☕ Atualmente estou aprendendo html, css e javascript.
 - 📚 Procuro aplicar projetos que estudo no meu dia a dia.
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Felipe-Monte/Felipe-Monte/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
