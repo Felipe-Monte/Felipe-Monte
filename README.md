@@ -9,7 +9,7 @@
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="dev-img" height="160" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" margin-right:80px">
+  <img align="right" alt="dev-img" height="100" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif">
 </div>
 
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽</h1>
