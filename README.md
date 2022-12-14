@@ -22,7 +22,7 @@
   
   ## 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
-  <h3>Me chamo Carlos Felipe, sou estudante de programação e tecnologia!</h3>
+  <h3>< Front-End Developer | HTML | CSS | JavaScript | React | Git | /></h3>
 
 - 💻 Olá me chamo Felipe, sou estudante de 
 progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. 
