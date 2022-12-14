@@ -24,10 +24,9 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
   <h3>Me chamo Carlos Felipe, sou estudante de programação e tecnologia!</h3>
 
-- 💻 Trabalho como assistente administrativo e estudo progamaçâo.
-- ☕ Atualmente estou aprendendo html, css e javascript.
-- 📚 Procuro aplicar projetos que estudo no meu dia a dia.
-  
+- 💻 Olá me chamo Felipe, sou estudante de 
+progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. 
+
   ![Snake animation](https://github.com/Felipe-Monte/Felipe-Monte/blob/output/github-contribution-grid-snake.svg)
 </div>
 
