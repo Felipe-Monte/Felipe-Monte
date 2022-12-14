@@ -3,14 +3,13 @@
   <a href="https://github.com/Felipe-Monte">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Monte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Monte&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://user-images.githubusercontent.com/109633306/207665787-fab6c4a5-9104-45a9-9799-3d80bf14c0b2.png"/>
-
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-react" height="30" width="40" src="https://user-images.githubusercontent.com/109633306/207665787-fab6c4a5-9104-45a9-9799-3d80bf14c0b2.png">
   <img align="right" alt="dev-img" height="160" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif">
 </div>
 
