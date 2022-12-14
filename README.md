@@ -12,7 +12,8 @@
 </div>
 
 ##
-  <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><h1> Hello world ! </h1>🖖👽
+<h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
 
 Olá me chamo Felipe, sou estudante de 
 progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. 
@@ -26,7 +27,7 @@ progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias 
  </div>
   
   ## 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
+  
   
 
   ![Snake animation](https://github.com/Felipe-Monte/Felipe-Monte/blob/output/github-contribution-grid-snake.svg)
