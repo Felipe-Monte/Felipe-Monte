@@ -16,7 +16,7 @@
 <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
 
 <p> Olá me chamo Felipe, sou estudante de 
-progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. Gosto de buscar conhecimentos, tenho muita vontade de aprender e evoluir na área em que estou atuando, e para isso tenho bastante foco, determinação e organização. 
+progamação, utilizo Html, Css, Javascript, React dentre outras tecnologias, venho desenvolvendo projetos pessoais, além de atividades e exercicios para desenvolvimento web, área que foco maior parte do tempo. Gosto de buscar conhecimentos, tenho muita vontade de aprender e evoluir na área em que estou atuando, e para isso tenho bastante foco, determinação e organização. 
 Sou bastante proativo e gosto de passar por desafios, para o crescimento das minhas habilidades e competências.
   
   Objetivo Profissional: Front-End </p>
