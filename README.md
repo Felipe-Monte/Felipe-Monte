@@ -22,13 +22,10 @@ Sou bastante proativo e gosto de passar por desafios, para o crescimento das min
 Objetivo Profissional: Front-End 
 
 Conhecimentos: 
-- Html
-- Css
-- Javascript
-- React
-- Bootstrap
-- Git / GitHub
-  
+-Html -React
+-Css -Bootstrap
+-Javascript -Git / GitHub
+
 <div>
  <a href="https://www.facebook.com/carlosfelipemonte.felipe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/felipe_mmonte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
