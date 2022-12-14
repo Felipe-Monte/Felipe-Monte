@@ -3,6 +3,8 @@
   <a href="https://github.com/Felipe-Monte">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Monte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Monte&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://user-images.githubusercontent.com/109633306/207665787-fab6c4a5-9104-45a9-9799-3d80bf14c0b2.png"/>
+
 </div>
 
 <div style="display: inline_block"><br>
