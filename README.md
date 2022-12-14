@@ -12,6 +12,11 @@
 </div>
 
 ##
+  <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
+
+Olá me chamo Felipe, sou estudante de 
+progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. 
+  
 <div>
  <a href="https://www.facebook.com/carlosfelipemonte.felipe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/felipe_mmonte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,10 +27,7 @@
   
   ## 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽
-  <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
-
-Olá me chamo Felipe, sou estudante de 
-progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias venho desenvolvendo projetos pessoais, além de atividades e exercicios de desenvolvimento web, área que foco maior parte do tempo. 
+  
 
   ![Snake animation](https://github.com/Felipe-Monte/Felipe-Monte/blob/output/github-contribution-grid-snake.svg)
 </div>
