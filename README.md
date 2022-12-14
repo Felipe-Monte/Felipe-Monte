@@ -11,7 +11,6 @@
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-##
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽</h1>
 <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
 
@@ -26,10 +25,6 @@ progamação, utilizando Html, Css, Javascript, React dentre outras tecnologias 
   <img align="right" alt="dev-pic" height="160" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
  </div>
   
-  ## 
-  
-  
-
   ![Snake animation](https://github.com/Felipe-Monte/Felipe-Monte/blob/output/github-contribution-grid-snake.svg)
 </div>
 
