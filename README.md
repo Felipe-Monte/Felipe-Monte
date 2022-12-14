@@ -12,7 +12,7 @@
 </div>
 
 ##
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><h1> Hello world ! </h1>🖖👽
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽</h1>
 <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
 
 Olá me chamo Felipe, sou estudante de 
