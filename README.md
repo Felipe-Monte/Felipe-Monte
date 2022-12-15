@@ -16,11 +16,9 @@
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world ! 🖖👽</h1>
 <h3>- 💻 Front-End Developer | HTML | CSS | JavaScript | React | Git </h3>
 
-<p> Olá me chamo Felipe, sou estudante de 
-progamação, utilizo Html, Css, Javascript, React dentre outras tecnologias, venho desenvolvendo projetos pessoais, além de atividades e exercicios para desenvolvimento web, área que foco maior parte do tempo. Gosto de buscar conhecimentos, tenho muita vontade de aprender e evoluir na área em que estou atuando, e para isso tenho bastante foco, determinação e organização. 
-Sou bastante proativo e gosto de passar por desafios, para o crescimento das minhas habilidades e competências.
+<p> Hello, my name is Felipe, I'm a programming student, I use Html, CSS, Javascript, React among other technologies, I've been developing personal projects, in addition to activities and exercises for web development, an area that I focus most of the time. I like to seek knowledge, I have a lot of desire to learn and evolve in the area in which I am working, and for that I have a lot of focus, determination and organization. I am very proactive and I like to go through challenges, for the growth of my skills and competences.
   
-  Objetivo Profissional: Front-End </p>
+Professional goal: Front-End </p>
 
 <div>
  <a href="https://www.facebook.com/carlosfelipemonte.felipe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
