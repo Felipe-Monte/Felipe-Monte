@@ -4,7 +4,7 @@
 <h3><img src="https://i.pinimg.com/originals/89/74/82/897482d89aa1a4b266a7ee8b0dbd8f8e.gif" height="30px" >
 &lt; Web Developer &frasl;&gt; <img src="https://pa1.narvii.com/6564/bf8d33454d506a1ebd19cf0d1ab3e81c720f0e96_hq.gif" height="30px"></h3>
 
-<p>- 💻 Olá, meu nome é Felipe, sou estudante de programação web, utilizo HTML, CSS, JAVASCRIPT, REACT entre outras tecnologias, venho desenvolvendo projetos pessoais, além de atividades e exercícios para desenvolvimento profissional. Gosto de buscar conhecimento, tenho muita vontade de aprender e evoluir na área em que atuo, e para isso tenho muito foco, determinação e organização. adoro a tecnologia e uso como amiga nas minhas habilidades e competências.
+<p>- 💻 Olá, meu nome é Felipe, sou estudante de programação web, utilizo HTML, CSS, JAVASCRIPT, REACT entre outras tecnologias, venho desenvolvendo projetos pessoais, além de atividades e exercícios para desenvolvimento profissional. Gosto de buscar conhecimento, tenho muita vontade de aprender e evoluir na área em que atuo, e para isso tenho muito foco, determinação e organização. adoro a tecnologia e uso como amiga nas minhas habilidades e competências...
 </p>
 
 <div style="display: inline_block"><br>
