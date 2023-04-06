@@ -24,7 +24,6 @@ Conhecimentos:
 
 Contato:
 Email: carlosfelipemonte1997@outlook.com 📩
-Github: https://github.com/Felipe-Monte 📚
 </p>
 
 <div style="display: inline_block"><br>
