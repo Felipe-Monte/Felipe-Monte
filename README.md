@@ -15,12 +15,12 @@ Sou bastante proativo e gosto de passar por desafios, para o crescimento das min
 Objetivo Profissional: Front-End 🚀🖥
 
 Conhecimentos:
--✅Html
--✅Css
--✅Javascript
--✅React
--✅Bootstrap
--✅Git / GitHub
+- ✅Html
+- ✅Css
+- ✅Javascript
+- ✅React
+- ✅Bootstrap
+- ✅Git / GitHub
 
 Contato:
 Email: carlosfelipemonte1997@outlook.com 📩
