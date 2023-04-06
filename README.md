@@ -4,7 +4,27 @@
 <h3><img src="https://i.pinimg.com/originals/89/74/82/897482d89aa1a4b266a7ee8b0dbd8f8e.gif" height="30px" >
 &lt; Web Developer &frasl;&gt; <img src="https://pa1.narvii.com/6564/bf8d33454d506a1ebd19cf0d1ab3e81c720f0e96_hq.gif" height="30px"></h3>
 
-<p>- 💻 Olá, me chamo Felipe, sou progamador web, utilizo HTML, CSS, JAVASCRIPT, REACT entre outras tecnologias, Gosto de buscar conhecimento, tenho muita vontade de aprender e evoluir na área em que atuo, e para isso tenho muito foco, determinação e organização. 
+<p>- Olá! 🖖
+Me chamo Carlos Felipe. 😊💻
+
+> Gosto de buscar conhecimentos, tenho muita vontade de aprender e evoluir na área em que estou atuando, e para isso tenho bastante foco, determinação e organização.
+
+> Sou bastante proativo e gosto de passar por desafios, para o crescimento das minhas habilidades e competências.
+
+Objetivo Profissional: Front-End 🚀🖥
+
+Conhecimentos:
+✅Html
+✅Css
+✅Javascript
+✅React
+✅Bootstrap
+✅Git / GitHub
+
+Contato:
+(84) 99843-1693 ☎
+Email: carlosfelipemonte1997@outlook.com 📩
+Github: https://github.com/Felipe-Monte 📚
 </p>
 
 <div style="display: inline_block"><br>
