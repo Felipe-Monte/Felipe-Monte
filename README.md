@@ -18,6 +18,7 @@ Conhecimentos:
 - ✅Html
 - ✅Css
 - ✅Javascript
+- ✅Node
 - ✅React
 - ✅Bootstrap
 - ✅Git / GitHub
