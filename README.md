@@ -12,7 +12,7 @@ Sou desenvolvedor web, tenho muita vontade de aprender e evoluir na área em que
 
 Sou bastante proativo e gosto de passar por desafios, para o crescimento das minhas habilidades e competências.
 
-Objetivo Profissional: Front-End 🚀🖥
+Objetivo Profissional: Front-End 💻
 
 Conhecimentos:
 - ✅Html
