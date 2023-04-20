@@ -8,7 +8,7 @@
 Olá! 🖖
 Me chamo Carlos Felipe. 😊💻
 
-Sou desenvolvedor web, tenho muita vontade de aprender e evoluir na área em que estou atuando, e para isso tenho bastante foco, determinação e organização.
+Sou desenvolvedor web, tenho muita vontade de aprender e evoluir na área em que estou, e para isso tenho bastante foco, determinação e organização.
 
 Sou bastante proativo e gosto de passar por desafios, para o crescimento das minhas habilidades e competências.
 
