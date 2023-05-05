@@ -1,7 +1,7 @@
 
 ### Hello World, I'm Carlos Felipe 
 
-#### Sobre mim
+#### About
 Desenvolvedor web frontend e estudante da [Rocketseat](https://rocketseat.com.br) <br>
 Web developer ☕ 
 
