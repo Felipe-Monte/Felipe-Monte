@@ -1,5 +1,5 @@
 
-### Hello World, I'm Carlos Felipe 🖖🧑
+### Hello World, I'm Carlos Felipe 
 
 #### Sobre mim
 Desenvolvedor web frontend e estudante da [Rocketseat](https://rocketseat.com.br) <br>
