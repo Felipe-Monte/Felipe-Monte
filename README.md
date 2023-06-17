@@ -12,7 +12,6 @@ Web developer ☕
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode` , `Markdown`
-- 🚀 I'm mostly active within the `Rocketseat community`
 
 #### Contacts
 - ✉️ Email: carlosfelipemonte1997@outlook.com 
