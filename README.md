@@ -8,7 +8,7 @@ Web developer ☕
 #### Current stack
 - 🔥 Main language: `Javascript`
 - 📡 Backend: `Nodejs`
-- 🖥️ Frontend: `Javascript`, `Reactjs`, `HTML5`, `CSS3`
+- 🖥️ Frontend: `Javascript`, `Reactjs`, `Next`, `Tailwind`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode` , `Markdown`
