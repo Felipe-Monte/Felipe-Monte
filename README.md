@@ -5,7 +5,7 @@
 Desenvolvedor web frontend<br>
 Web developer ☕ 
 
-#### Current stack
+#### Current stack.
 - 🔥 Main language: `Javascript`
 - 📡 Backend: `Nodejs`
 - 🖥️ Frontend: `Javascript`, `Reactjs`, `Next`, `Tailwind`
