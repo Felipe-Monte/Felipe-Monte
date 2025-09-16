@@ -7,14 +7,14 @@ Desenvolvedor front-end especializado na criação e otimização de interfaces 
 #### 🚀 Foco Atual
 Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir soluções de alto desempenho e explorar novas tecnologias que impulsionem a experiência do usuário.
 
-#### 💻 Habilidades Técnicas
+#### 💻 Habilidades Técnicas 
 - 🔥 Main language: `Javascript`
 - 📡 Backend: `Nodejs`
 - 🖥️ Frontend: `Javascript`, `Reactjs`, `Next`, `Tailwind`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode` , `Markdown`
-
+- 
 #### Contacts
 - ✉️ Email: carlosfelipemonte1997@outlook.com 
 - 👤 Linkedin: https://www.linkedin.com/in/carlosfelipemonte/
@@ -25,7 +25,10 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Node.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s3eHo3MjdvOTYzajgzNGJ5OGliZDJ4dzdwNmFhaW45cDIzcnV0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="GIF de um programador digitando" width="100" height="100" style="vertical-align: middle;">
+
 </div>
+
 
 
   
