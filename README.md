@@ -15,9 +15,6 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode` , `Markdown`
 
-#### Contacts
-- ✉️ Email: carlosfelipemonte1997@outlook.com 
-- 👤 Linkedin: https://www.linkedin.com/in/carlosfelipemonte/
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,6 +23,11 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 <img alt="Node.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+#### Contato
+- ✉️ Email: carlosfelipemonte1997@outlook.com 
+- 👤 Linkedin: https://www.linkedin.com/in/carlosfelipemonte/
+
 
 
 
