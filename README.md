@@ -9,7 +9,7 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 #### 💻 Habilidades Técnicas 
 - 🔥 Main language: `Javascript`
 - 📡 Backend: `Nodejs`
-- 🖥️ Frontend: `Javascript`, `Reactjs`, `Next`, `Tailwind`
+- 🖥️ Frontend: `Javascript`, `TypeScript`, `Reactjs`, `Next`, `Tailwind`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode` , `Markdown`
