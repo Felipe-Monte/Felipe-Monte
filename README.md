@@ -4,7 +4,7 @@
 Desenvolvedor front-end especializado na criação e otimização de interfaces de usuário. Minha experiência abrange o desenvolvimento de aplicações web eficientes e escaláveis. 
 
 #### 🚀 Foco Atual
-Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir soluções de alto desempenho e explorar novas tecnologias que impulsionem a experiência do usuário.
+Atualmente, meu foco está em aprofundar conhecimentos para construir soluções de alto desempenho e explorar novas tecnologias que impulsionem a experiência do usuário.
 
 #### 💻 Habilidades Técnicas 
 - 🔥 Main language: `Javascript`
