@@ -24,5 +24,4 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 </div>
 
 #### Contato
-- ✉️ Email: carlosfelipemonte1997@outlook.com 
 - 👤 Linkedin: [linkedin.com/in/carlosfelipemonte](https://www.linkedin.com/in/carlosfelipemonte/)
