@@ -21,9 +21,6 @@ Atualmente, meu foco está em aprofundar conhecimentos em Next.js para construir
 <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img alt="Node.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img alt="Next.js" height="30" width="40" src="https://img.icons8.com/?size=512&id=yUdJlcKanVbh&format=png" style="filter: invert(1);">
-<img alt="Tailwind CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img alt="Styled Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 </div>
 
 #### Contato
